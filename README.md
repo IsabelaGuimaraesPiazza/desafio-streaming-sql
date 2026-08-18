@@ -1,4 +1,4 @@
-# desafio-streaming-sql
+
 #  Sistema de Streaming - Desafio de Banco de Dados 
 
 Aqui contém a resolução de um desafio de SQL focado em regras de negócio para uma plataforma de streaming de vídeo (estilo Netflix). O objetivo é identificar os usuários mais engajados para receberem uma campanha de marketing exclusiva.
